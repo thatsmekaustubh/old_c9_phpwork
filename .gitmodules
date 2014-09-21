@@ -4,3 +4,6 @@
 [submodule "yii"]
 	path = yii
 	url = git://github.com/yiisoft/yii.git
+[submodule "yiiLibrary"]
+	path = yiiLibrary
+	url = git://github.com/yiisoft/yii.git
